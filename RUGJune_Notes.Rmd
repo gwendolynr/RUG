@@ -1,0 +1,66 @@
+---
+title: "RUG June 2018"
+author: "Gwendolyn"
+date: "6/7/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyverse)
+```
+
+Professor of Computer Science at the UofU:  Miriah Meyer from the Visualization Design Lab, applied visualization research
+Book: Making Data Visual 
+
+MizBee tool to support genome comparison data. It is like a donut chart with lines going to and from each other. 
+
+Visualization is a design process. 
+
+User centered design: understand -> ideate -> make -> deploy, evaluate at every step
+
+Data Counseling:
+interviews, exploratory data analysis, and rapid prototyping
+
+Thought: prototype rather than drafts or wireframes
+
+Proxy: a partial and imperfect representation of the thing the analyst cares about
+
+action: thing you want to do
+object: items you want to take action on
+measure: value you are interested in for the objects
+
+Translate fuzzy task into something you can do with your data. 
+
+Poemage v 0.1 
+
+What does this mean for visualization design? 
+-If we aren't using visualizations to find the accurate answer, how does that change how we design visualizations? 
+
+www.cs.utah.edu/~miriah
+miriah@cs.utah.edu
+
+Book that combines things and has a ranked order list of research based encodings for creating visualizations.
+Multiple linked views--data is complex, you can't shove everything into one visualization. Don't make any one graph crazy complex. 
+
+Grammar of graphics, d3, R, Matlab, etc
+
+
+
+
+
+
+
+
+
+```{r}
+
+```
+
+
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+
